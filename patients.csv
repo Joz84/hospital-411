@@ -1,0 +1,3 @@
+id,name,gender,cured,room_id
+1,paul,male,true,1
+2,john,male,false,1
